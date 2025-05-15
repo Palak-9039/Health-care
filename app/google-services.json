@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938132913525",
+    "project_id": "health-care-ab637",
+    "storage_bucket": "health-care-ab637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938132913525:android:73376d1269bb45fde9273c",
+        "android_client_info": {
+          "package_name": "com.example.health_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN30fIU4ekj_w9q5sr4QIjVNwH3YnrBx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
