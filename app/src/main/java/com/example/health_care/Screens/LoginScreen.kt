@@ -16,6 +16,6 @@ fun LoginScreen(navController: NavController){
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ){
-        OutlinedTextField(value = )
+//        OutlinedTextField(value = )
     }
 }
