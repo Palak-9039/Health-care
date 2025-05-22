@@ -33,6 +33,7 @@ fun CTextField(
                 )
             )
         },
+        textStyle = TextStyle(color = Color.Black),
         modifier = Modifier
             .fillMaxWidth()
             .padding(bottom = 8.dp),
